@@ -1,5 +1,6 @@
 ### Bellabeat Capstone Project
 [Link to HTML Page](https://adomas1992.github.io/Bellabeat/Capstone_Project_Bellabeat.html)
+
 Author: Adomas Fiseris
 Date: 2023-04-22
 Overview
